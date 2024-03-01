@@ -16,7 +16,7 @@ main{border: 1px solid black; border-radius: 10px;
 
 h1{margin-left: 25px;} 
 .div1{ background-color: hsl(47, 88%, 63%); margin-top: 20px; 
-   margin-left: 25px; margin-right: 75%; font-size: 20px; text-align: center;
+   margin-left: 25px; margin-right: 80%; font-size: 20px; text-align: center;
     border-radius: 5px; display: flex; flex-direction: row;
    padding-left: 10px; padding-bottom: 5px; padding-top: 5px;} 
 .div2{ margin-left: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;} 
