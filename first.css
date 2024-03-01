@@ -20,7 +20,8 @@ h1{margin-left: 25px;}
     border-radius: 5px; display:inline-block; flex-direction: row;
    padding-left: 10px; padding-bottom: 5px; padding-top: 5px; padding-right:10px;} 
 
-.div2{ margin-left: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;} 
+.div2{ margin-left: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+      padding-top:15px;} 
 
 .p3{color:hsl(0, 0%, 50%); margin-left: 25px;margin-right:10px; display: inline-block; }
 
