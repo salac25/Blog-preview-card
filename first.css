@@ -1,6 +1,7 @@
 body{background-color: hsl(47, 88%, 63%) ;}
+
 main{border: 1px solid black; border-radius: 10px;
-   width: 80%; box-sizing:border-box; margin-left: 10%;
+   width: 80%; box-sizing:border-box; margin-left: 10%; margin-top:50px;
    box-shadow:10px 10px 5px black;background-color: hsl(0, 0%, 100%);
    font-weight: 500, 800; font-size: 16px; font-family: 
    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
