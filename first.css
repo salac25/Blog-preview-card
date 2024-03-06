@@ -31,6 +31,6 @@ h1{margin-left: 25px;}
 .p4{ margin-left: 10px; padding-top: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
-@media screen and  (max-width:  375px) {}
+@media screen and  (max-width:  375px) { body{background-color: hsl(47, 88%, 63%) ;}}
 
-@media screen and (max-width:1440px){}
+@media screen and (max-width:1440px){ body{background-color: hsl(47, 88%, 63%) ;}}
