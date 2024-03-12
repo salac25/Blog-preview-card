@@ -1,4 +1,10 @@
-body{background-color: hsl(47, 88%, 63%) ;}
+body{
+   background-color: hsl(47, 88%, 63%) ;
+   min-height:100vh;
+   align-items:center;
+   display:flex;
+   justify-content:center;
+     }
 
 main{border: 1px solid black; border-radius: 10px;
    width: 80%; box-sizing:border-box; margin-left: 10%; margin-top:50px;
